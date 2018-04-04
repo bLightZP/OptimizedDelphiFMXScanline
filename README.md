@@ -1,0 +1,2 @@
+# OptimizedDelphiFMXScanline
+Optimized AlphaColorToScanline/ScanlineToAlphaColor for Delphi FMX
